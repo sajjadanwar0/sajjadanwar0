@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajjad Anwar</h1>
-<h3 align="center">A passionate FullStack developer</h3>
+<h3 align="center">A passionate FullStack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadanwar0&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadanwar0" /> </p>
 
