@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sajjad_anwar0" target="blank"><img src="https://img.shields.io/twitter/follow/sajjad_anwar0?logo=twitter&style=for-the-badge" alt="sajjad_anwar0" /></a> </p>
 
-- 🔭 I’m currently working on **GoLang,Python,Laravel**
+- 🔭 I’m currently working on **Go,Python,Laravel**
 
-- 💬 Ask me about **Laravel, GoLang,Python, React, Typescript, AWS, Azure**
+- 💬 Ask me about **Go,Python, React, Typescript,Linux, AWS, Azure,Laravel**
 
 - 📫 How to reach me **sajjadanwar400@gmail.com**
 
