@@ -7,12 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/sajjad_anwar0" target="blank"><img src="https://img.shields.io/twitter/follow/sajjad_anwar0?logo=twitter&style=for-the-badge" alt="sajjad_anwar0" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel,Go,Python, Javascript**
-
-- 💬 Ask me about **Laravel, Go, Python, React, NextJS, Machine Learning, Linux, AWS, Azure**
-
-- 📫 How to reach me **sajjadanwar400@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sajjad_anwar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajjad_anwar0" height="30" width="40" /></a>
