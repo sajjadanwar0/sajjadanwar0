@@ -1,29 +1,32 @@
-<h1 align="center">Hi 👋, I'm Sajjad Anwar</h1>
-<h3 align="center"> A Sotfware Engineer</h3>
+# Sajjad Khan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadanwar0&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadanwar0" /> </p>
+Researcher and engineer working on agentic AI, multi-agent LLM systems, and
+distributed systems infrastructure. I am especially interested in optimistic
+concurrency control for shared LLM state, formal verification of multi-agent
+coordination protocols, and the engineering of reliable autonomous AI
+infrastructure.
 
-<p align="left"> <a href="https://trophygh.kolioaris.xyz/?username=sajjadanwar0"><img src="https://trophygh.kolioaris.xyz/?username=sajjadanwar0" alt="sajjadanwar0" /></a> </p>
+MSc, Data Science, University of the West of England (UWE Bristol), 2024.
 
-<p align="left"> <a href="https://twitter.com/sajjad_anwar0" target="blank"><img src="https://img.shields.io/twitter/follow/sajjad_anwar0?logo=twitter&style=for-the-badge" alt="sajjad_anwar0" /></a> </p>
+## Current research
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sajjad_anwar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajjad_anwar0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sajjad-anwar-a62267194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajjad-anwar-a62267194/" height="30" width="40" /></a>
-</p>
+**S-Bus: Automatic Read-Set Reconstruction for Multi-Agent LLM State
+Coordination.** A Rust transactional middleware that uses a server-side
+DeliveryLog to automatically reconstruct each agent's read-set from observed
+HTTP traffic, enabling optimistic concurrency control over shared LLM state
+without agent-side SDK changes. Empirical safety parity demonstrated against
+PostgreSQL 17 SERIALIZABLE and Redis 7 WATCH/MULTI across 884,110 commit
+attempts on three independent backends. Mechanised in TLAPS, TLC, and Dafny.
 
-<h3 align="left">Stacks:</h3>
-<p align="left"> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg" alt="laravel" width="40" height="40"/> </a><a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
- <a href="https://python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a><a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </a> 
- </p>
+- **System:** [`sbus`](https://github.com/sajjadanwar0/sbus) — Rust workspace
+  (server, baselines, proxy)
+- **Mechanised proofs:** [`sbus-formals`](https://github.com/sajjadanwar0/sbus-formals) — TLA+, TLAPS, Dafny
+- **Experiments:** [`sbus-experiments`](https://github.com/sajjadanwar0/sbus-experiments) — Python harness reproducing every paper measurement
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadanwar0&show_icons=true&locale=en&layout=compact" alt="sajjadanwar0" /></p>
+Preprint: 2026 (arXiv link — TBA).
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajjadanwar0&show_icons=true&locale=en" alt="sajjadanwar0" /></p>
+## Background
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajjadanwar0&" alt="sajjadanwar0" /></p>
-
-
-
+Eight years of software-engineering experience across distributed backends,
+production AI systems (RAG over compliance content, and full-stack
+applications, in addition to the research above.
