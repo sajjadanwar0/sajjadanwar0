@@ -6,8 +6,6 @@ concurrency control for shared LLM state, formal verification of multi-agent
 coordination protocols, and the engineering of reliable autonomous AI
 infrastructure.
 
-MSc, Data Science, University of the West of England (UWE Bristol), 2024.
-
 ## Current research
 
 **S-Bus: Automatic Read-Set Reconstruction for Multi-Agent LLM State
