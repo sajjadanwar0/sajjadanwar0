@@ -9,6 +9,6 @@ infrastructure.
 
 ## Background
 
-Eight years of software-engineering experience across distributed backends,
+Eight+ years of software-engineering experience across distributed backends,
 production AI systems (RAG over compliance content, and full-stack
 applications, in addition to the research above.
